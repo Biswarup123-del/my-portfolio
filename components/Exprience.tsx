@@ -18,21 +18,23 @@ const experiences = [
       "Improved UI/UX and fixed bugs.",
       "Implemented animations using Framer Motion.",
       "Worked with authentication systems (login, OTP, multipart uploads).",
+      "Implemented CI/CD pipeline and automated application deployment using GitHub Actions and Vercel."
     ],
   },
   {
     company: "Dramtix Solution Pvt Ltd",
     role: "React Developer Intern",
     duration: "March 2025 - July 2025",
-    points: [
-      "Built responsive UI using React.js, JavaScript, and Tailwind CSS.",
-      "Created reusable components and handled API integration.",
-      "Managed state using Redux.",
-      "Collaborated with senior developers and fixed bugs.",
-      "Participated in Agile workflows (standups, sprint planning).",
-      "Worked with Formik/Yup, React Router, and localStorage.",
-      "Built CRUD app with authentication.",
-    ],
+  points: [
+  "Built responsive UI using React.js, JavaScript, and Tailwind CSS.",
+  "Created reusable components and handled API integration.",
+  "Managed state using Redux.",
+  "Collaborated with senior developers and fixed bugs.",
+  "Participated in Agile workflows (standups, sprint planning).",
+  "Worked with Formik/Yup, React Router, and localStorage.",
+  "Built CRUD app with authentication.",
+  ,
+],
   },
   {
     company: "Grow Front Software Private Limited",
